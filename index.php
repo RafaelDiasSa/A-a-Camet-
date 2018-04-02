@@ -1,9 +1,5 @@
-<html lang="pt-br">
-<head>
-    <meta charset="utf-8">
-    <title>Açaí Cametá</title>
-</head>
-<body>
+<?php include_once("header.php"); ?>
+<!-- content -->
     <h5>Olá, mundo!</h5>
-</body>
-</html>
+<!-- content -->
+<?php include_once("footer.php"); ?>
